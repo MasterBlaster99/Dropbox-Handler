@@ -7,8 +7,8 @@ import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 const String dropbox_clientId = 'test-flutter-dropbox';
-const String dropbox_key = 'wzsydu3w6lg0j4t';
-const String dropbox_secret = 'vadi01vpxgh9ekr';
+const String dropbox_key = 'key';
+const String dropbox_secret = 'secret';
 
 void main() {
   return runApp(MyApp());
